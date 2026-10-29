@@ -1,0 +1,6 @@
+# Large raw BRFSS files (download from Kaggle: alexteboul/diabetes-health-indicators-dataset)
+data/diabetes_012_health_indicators_BRFSS2015.csv
+data/diabetes_binary_health_indicators_BRFSS2015.csv
+models/
+.ipynb_checkpoints/
+data/pima_diabetes.csv
